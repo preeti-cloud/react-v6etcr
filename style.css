@@ -3,7 +3,7 @@ h1, p {
 }
 
 .square {
-background : white ;
+background : blue ;
 border : 1px solid gray ;
 float: left ;
 padding : 0 ;
