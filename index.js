@@ -25,4 +25,4 @@ class App extends Component {
   }
 }
 
-render(<Square />, document.getElementById('root'));
+render(<Game />, document.getElementById('root'));
